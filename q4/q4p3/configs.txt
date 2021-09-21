@@ -1,0 +1,12 @@
+dense_sift_step: 
+5
+kmeans_no_clusters: 
+400
+kmeans_n_init: 
+3
+kmeans_max_iter: 
+300
+kernel: 
+rbf
+accuracy: 
+0.688

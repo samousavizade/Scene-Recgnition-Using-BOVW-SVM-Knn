@@ -1,0 +1,6 @@
+small_image_size: 
+32
+knn k value: 
+1
+accuracy: 
+0.22133333333333333
