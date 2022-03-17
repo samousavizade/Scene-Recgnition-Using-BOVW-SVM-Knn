@@ -6,3 +6,4 @@ Scene Recogntion Using:
 2. Support Vector Machine (SVM)
 3. K Nearest Neighbour (KNN)
 
+### Computer Vision Course Project 
